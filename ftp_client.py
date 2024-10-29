@@ -4,7 +4,7 @@ from cryptography.fernet import Fernet
 
 
 def load_key():
-    return b'your_key_here'  # Replace this with a secure key
+    return b'6f2a1c3b4e9a7d5e3b2e1a8d1c6f0e9b63b4d4e3b9a1d6e0a4f2b7c8e6a9e5d1'  # Replace this with a secure key
 
 
 def upload_files(client_socket, filenames):
